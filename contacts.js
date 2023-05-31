@@ -17,12 +17,11 @@ async function getContactById(contactId) {
 
 async function removeContact(contactId) {
   const contacts = await listContacts();
-  const index = contacts.findIndex(contact => contact.id === contactId);
+  const index = contacts.findIndex((contact) => contact.id === contactId);
   if (index === -1) null;
-  const [result] = contacts.splice(index,1)
+  const [result] = contacts.splice(index, 1);
   await fs.writeFile(contactsPath, JSON.stringify(contacts, null, 2));
   return result;
-
 }
 
 async function addContact({ name, email, phone }) {
