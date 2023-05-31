@@ -2,17 +2,22 @@
 
 <h2>Реалізація функцій:</h2>
 
-<>Отримуємо і виводимо весь список контактів у вигляді таблиці</>
-![list](screenshots/list.jpg)
+<b>Отримуємо і виводимо весь список контактів у вигляді таблиці</b>
 
-<>Отримуємо контакт по id</>
-![get](./screenshots/get.jpg)
+![list](screenshots/list.png)
 
-<>Додаємо контакт</>
-![add](./screenshots/add.jpg)
+<b>Отримуємо контакт по id</b>
 
-<>Видаляємо контакт</>
-![remove](screenshots/remove.jpg)
+![get](./screenshots/get.png)
 
-<>Результат після дій користувача</>
-![result](screenshots/result.jpg)
+<b>Додаємо контакт</b>
+
+![add](./screenshots/add.png)
+
+<b>Видаляємо контакт</b>
+
+![remove](screenshots/remove.png)
+
+<b>Результат після дій користувача</b>
+
+![result](screenshots/result.png)
