@@ -14,3 +14,5 @@
 <li>Результат після дій користувача</li>
 ![result](screenshots/result.jpg)
 </ul>
+
+![add](./screenshots/add.png)
