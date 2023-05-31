@@ -6,7 +6,7 @@
 <li>Отримуємо і виводимо весь список контактів у вигляді таблиці</li>
 ![list](screenshots/list.jpg)
 <li>Отримуємо контакт по id</li>
-![get](screenshots/get.jpg)
+![get](/screenshots/get.jpg)
 <li>Додаємо контакт</li>
 ![add](screenshots/add.jpg)
 <li>Видаляємо контакт</li>
